@@ -1,5 +1,0 @@
-student:
-  config:
-    web-configs:
-      name: Yaml测试
-      age: 20
